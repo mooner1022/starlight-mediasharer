@@ -1,0 +1,11 @@
+{
+  "id":"mediasharer",
+  "name":"Media Sharer",
+  "category":"utility",
+  "main_class":"dev.mooner.starlightmediasharer.StarlightMediaSharerPlugin",
+  "version":"0.1.0",
+  "api_version":"1.0.0",
+  "assetRevision":1,
+  "authors":["mooner"],
+  "description":"Sends images, videos and files to KakaoTalk chat rooms from StarLight projects"
+}
